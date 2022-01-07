@@ -1,8 +1,6 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
+![alt=""](images/aleia_devore_linkedin_banner.png)
+# Aleia DeVore
+## Hi there 👋
 - 🔭 I’m currently working on augmented and virtual reality development
 - 🌱 I’m currently learning Unity, XR, and JavaScript
 - 👯 I’m looking to collaborate on anything API-related
